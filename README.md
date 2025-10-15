@@ -3,9 +3,9 @@
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ito-star/ito-star/output/github-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ito-star/ito-star/output/github-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ito-star/ito-star/output/github-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shirokano/shirokano/output/github-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shirokano/shirokano/output/github-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/shirokano/shirokano/output/github-grid-snake.svg" />
 </picture>
 
 
